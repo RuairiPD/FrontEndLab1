@@ -1,0 +1,10 @@
+var flag = true;
+console.log("Value assigned to flag is: " + flag);
+var num = 5;
+console.log("Value assigned to num is: " + num);
+var str = "hello";
+console.log("Value assigned to str is " + str);
+var any = "ANYTHING";
+console.log("Value assigned to any is " + any);
+var arry = ["Hello", "Wassup", "OOP"];
+console.log("Values assigned to string are " + arry[0] + " " + arry[1] + " " + arry[2]);
